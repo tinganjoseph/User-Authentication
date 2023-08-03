@@ -1,0 +1,38 @@
+{
+  "name": "signin-signup",
+  "version": "1.0.0",
+  "description": "express js mongodb node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "models",
+    "controllers",
+    "routes"
+  ],
+  "author": "Tingan joseph",
+  "license": "ISC",
+   "dependencies": {
+    "axios": "^1.4.0",
+    "bcrypt": "^5.0.1",
+    "cloudinary": "^1.29.1",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "expo-server-sdk": "^3.7.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^11.9.0",
+    "joi": "^17.9.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.10",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.12",
+    "openai": "^3.3.0",
+    "otp-generator": "^4.0.1",
+    "socket.io": "^4.6.2",
+    "uuid": "^9.0.0"
+  }
+}
